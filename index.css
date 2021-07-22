@@ -1,0 +1,39 @@
+.login{
+    width: 1000px;
+    height: 30px;
+    background-color: cadetblue;
+    position: relative;
+    left: 5%;
+}
+.hom{
+    width: 120px;
+    height: 30px;
+    font-size: medium;
+    position: relative;
+    left:30% ;
+}
+.log{
+    width: 120px;
+    height: 30px;
+    font-size: medium;
+    position: relative;
+    left:30% ;
+}
+.sig{
+    width: 120px;
+    height: 30px;
+    font-size: medium;
+    position: relative;
+    left:30% ;
+}
+.circle{
+    width: 40px;
+    height: 20px;
+    background-color: chartreuse;
+    font-size: large;
+    font-style: normal;
+}
+.marg{
+    margin: 8px;
+    padding: 8px;
+}
